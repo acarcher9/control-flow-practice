@@ -1,4 +1,6 @@
 package com.tts;
+import.util.Scanner;
+import.util.Random;
 
 public class AsciiChars {
 
